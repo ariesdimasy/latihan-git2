@@ -1,6 +1,31 @@
 # Perintah git yang telah di pelajari
 
-`git add .`
-mendaftarkan file baru ke dalam git ( git tracked)
-`git commit -m "message"`
-mendaftarkan file yang telah dirubah untuk nantinya di kirim ke git hosting. 
+## Heading 2
+
+### Heading 3 
+
+tulisan biasa 
+
+```go 
+import "fmt"
+
+func main() { 
+    fmt.Println("Hello World")
+}
+```
+
+```js 
+console.log("hello")
+console.log("world")
+
+```
+
+| NO | Name |
+|----|------|
+|1   | Dimas|
+|2   | Galih|
+
+
+Lorem Ipsum sit dolor `amet` 
+
+[google](https://google.com)
